@@ -8,7 +8,6 @@ import "assets/scss/argon-dashboard-react.scss";
 import AdminLayout from "layouts/Admin.js";
 import { Web3Provider } from './Web3Context';
 
-
 const Index = () => {
   return (
     <Web3Provider>
